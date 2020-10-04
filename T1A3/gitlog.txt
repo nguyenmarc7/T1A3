@@ -1,0 +1,143 @@
+commit 4accf4bf9c2e281934683b7c8545c8b6fb266ef2
+Author: nguyenmarc7 <nguyenmarc7@gmail.com>
+Date:   Sun Oct 4 20:30:58 2020 +1100
+
+    Format touch up
+
+commit 91278e226c563c66ac921c685dcba76c1d8a930b
+Author: nguyenmarc7 <nguyenmarc7@gmail.com>
+Date:   Sun Oct 4 13:56:52 2020 +1100
+
+    Restrict description lenghth to 100 characters
+
+commit 47ea792ab1b4cca6450e596ab58ae92f58100296
+Author: nguyenmarc7 <nguyenmarc7@gmail.com>
+Date:   Sun Oct 4 13:48:48 2020 +1100
+
+    Fix deletion of tasks with the same name
+
+commit ecb6d9cb6f8e00c09a9352e50343e546af63b14f
+Author: nguyenmarc7 <nguyenmarc7@gmail.com>
+Date:   Sun Oct 4 13:12:44 2020 +1100
+
+    User must enter an input after each question
+
+commit 14a7737b1424fb32401b5ba443848a918af41eee
+Author: nguyenmarc7 <nguyenmarc7@gmail.com>
+Date:   Sun Oct 4 13:03:54 2020 +1100
+
+    Implement colorize gem
+
+commit 82b62cf2384e21826c2384e8780a9dfac033cdcb
+Author: nguyenmarc7 <nguyenmarc7@gmail.com>
+Date:   Sun Oct 4 12:40:17 2020 +1100
+
+    Implement tty-prompt throughout code inputs
+
+commit 4c456c08d7a0cb7509160b9fa544651826e343d5
+Author: nguyenmarc7 <nguyenmarc7@gmail.com>
+Date:   Sun Oct 4 12:24:37 2020 +1100
+
+    Add date input restrictions
+
+commit bfa7c94b75914c1bef853ed23b0916636c18fdc1
+Author: nguyenmarc7 <nguyenmarc7@gmail.com>
+Date:   Sun Oct 4 05:55:23 2020 +1100
+
+    Prompt table of tasks before slecting a task to destroy
+
+commit a40ccc622a5ac85e4496a23fdc53f6ce9c787d15
+Author: nguyenmarc7 <nguyenmarc7@gmail.com>
+Date:   Sun Oct 4 04:52:48 2020 +1100
+
+    Printable terminal table
+
+commit 81f5bd16084f05e4f452b7cf2c21995596f7acbd
+Author: nguyenmarc7 <nguyenmarc7@gmail.com>
+Date:   Sun Oct 4 04:06:58 2020 +1100
+
+    Add application arguement
+
+commit a677924e6d1a72df9b6c62d161d5bb61fe081421
+Author: nguyenmarc7 <nguyenmarc7@gmail.com>
+Date:   Sun Oct 4 03:50:58 2020 +1100
+
+    Create moved Add_task case over to module Add
+
+commit 1f50fe701b3e756b5bec8fc987929b75e778ba2b
+Author: nguyenmarc7 <nguyenmarc7@gmail.com>
+Date:   Sun Oct 4 03:39:31 2020 +1100
+
+    Add a terminal clear after each input and rearranged the start of task adding
+
+commit f4e3e2084e161b642461cf6c32bb027bec2f0545
+Author: nguyenmarc7 <nguyenmarc7@gmail.com>
+Date:   Sun Oct 4 03:19:09 2020 +1100
+
+    Make Add_task more dry
+
+commit 5b90573b249af88593135e3e68f3505e51ec25aa
+Author: nguyenmarc7 <nguyenmarc7@gmail.com>
+Date:   Sun Oct 4 03:15:08 2020 +1100
+
+    Restart without classes
+
+commit 2e86525f30a7ededde2637dc13bbd86afd86155c
+Author: nguyenmarc7 <nguyenmarc7@gmail.com>
+Date:   Sun Oct 4 01:55:55 2020 +1000
+
+    Add destroy method in class
+
+commit f8a70e5adce2b3b7199bf8336250092a01df033e
+Author: nguyenmarc7 <nguyenmarc7@gmail.com>
+Date:   Sun Oct 4 01:50:22 2020 +1000
+
+    Add sort method into class
+
+commit c4f45d3538ae5ceb5b94b93692caf9992c1fcec7
+Author: nguyenmarc7 <nguyenmarc7@gmail.com>
+Date:   Sun Oct 4 01:06:39 2020 +1000
+
+    Add tasks through Task class
+
+commit 626522bf3bee536a22a930079756f250bc386e7a
+Author: nguyenmarc7 <nguyenmarc7@gmail.com>
+Date:   Sat Oct 3 23:52:27 2020 +1000
+
+    Initialise class Task
+
+commit 95a363439007851321647113528c08bea825d002
+Author: nguyenmarc7 <nguyenmarc7@gmail.com>
+Date:   Sat Oct 3 23:42:30 2020 +1000
+
+    Sort_n_Print prints an array sorted by date
+
+commit cbde40988dfcd5882457686dcfd75c2159048590
+Author: nguyenmarc7 <nguyenmarc7@gmail.com>
+Date:   Sat Oct 3 21:57:32 2020 +1000
+
+    Delete_task selects a task and deletes it
+
+commit 4e6066223b03b233ab7a73044dfd3109b4d9d36a
+Author: nguyenmarc7 <nguyenmarc7@gmail.com>
+Date:   Sat Oct 3 21:28:14 2020 +1000
+
+    Add menu options and push new tasks into array
+
+commit d966d3154d342792ac35a136514fb692d498101e
+Author: nguyenmarc7 <nguyenmarc7@gmail.com>
+Date:   Sat Oct 3 20:43:05 2020 +1000
+
+    Implement tty-prompt and base for adding a new task
+
+commit 4fa798396f14de9ce77f97de8663b28a1048f084
+Author: nguyenmarc7 <nguyenmarc7@gmail.com>
+Date:   Sat Oct 3 19:49:35 2020 +1000
+
+    Commented out application plan
+
+commit d291445b2d33b969ee69404732e45496eae0c8a3
+Author: nguyenmarc7 <nguyenmarc7@gmail.com>
+Date:   Sat Oct 3 17:41:56 2020 +1000
+
+    Create test file
